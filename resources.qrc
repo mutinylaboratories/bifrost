@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/bifrost">
+        <file>images/icon.svg</file>
+        <file>images/icon_sidebar.svg</file>
+    </qresource>
+</RCC>

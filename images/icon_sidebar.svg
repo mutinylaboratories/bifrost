@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 200 200">
+  <!-- Bifrost sidebar icon — bold strokes for small render size -->
+  <line x1="100" y1="36" x2="100" y2="164" stroke="white" stroke-width="14" stroke-linecap="round"/>
+  <path d="M56 110 Q100 52 144 110" fill="none" stroke="white" stroke-width="14" stroke-linecap="round"/>
+  <line x1="56" y1="110" x2="56" y2="164" stroke="white" stroke-width="14" stroke-linecap="round"/>
+  <line x1="144" y1="110" x2="144" y2="164" stroke="white" stroke-width="14" stroke-linecap="round"/>
+  <line x1="40" y1="164" x2="72" y2="164" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <line x1="128" y1="164" x2="160" y2="164" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <line x1="84" y1="164" x2="116" y2="164" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <line x1="78" y1="36" x2="122" y2="36" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <line x1="56" y1="137" x2="144" y2="137" stroke="white" stroke-width="10" stroke-linecap="round"/>
+</svg>

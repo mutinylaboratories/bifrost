@@ -1,0 +1,14 @@
+# CMake build tree (includes the vendored binaryninja-api and all artifacts)
+/build/
+/build-*/
+
+# macOS
+.DS_Store
+
+# Editor / local tooling (machine-specific absolute paths)
+/.vscode/
+/.claude/
+
+# CMake user files
+CMakeUserPresets.json
+compile_commands.json
